@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![GitHub branch status](https://img.shields.io/github/checks-status/peterxavier01/spotify-clone-v1/main)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/peterxavier01/spotify-clone-v1)
 
-## Getting Started
+# SoundWave
 
-First, run the development server:
+Soundwave is a music streaming application built with the cutting-edge web technologies to ensure optimal performance and accessibility across all devices. The platform allows users to explore, play, add, and enjoy their favorite tracks effortlessly. The app's UI is inspired by the Spotify app.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Responsive UI
+- Music Player Functionality with the use-sound package
+- User authentication with Supabse Auth
+- Global State Management with Zustand
+- Subcriptions Payment Integration with the Stripe API
+- Form validation with React Hook Form and Zod
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Framework:** Next.js
+- **Styling:** Tailwind CSS
+- **Database:** Supabase
+- **State Management:** Zustand
+- **Payment Gateway:** Stripe
+- **Type Safety:** TypeScript
+- **Form:** React Hook Form
 
-## Learn More
+## Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+![App Screenshot](public/images/screenshot.png)
+![App Screenshot](public/images/screenshot-2.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Authors
 
-## Deploy on Vercel
+Peter Uadiale
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Website](https://www.peteruadiale.com/)
+- [LinkedIn](https://www.linkedin.com/in/peter-o-uadiale-69541a19a/)
